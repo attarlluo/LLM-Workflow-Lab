@@ -6,6 +6,7 @@ A long-term research space for developing my personal LLM workflow systems, cogn
 
 ---
 
+
 ## **0. Purpose**
 
 本研究室的目标是建立一个持续迭代的体系，用于记录、研究与设计：
@@ -22,6 +23,7 @@ A long-term research space for developing my personal LLM workflow systems, cogn
 本仓库将作为我长期的“第二大脑”，记录从直觉到 formalization 的全过程。
 
 ---
+
 
 ## **1. Repository Structure（初始结构）**
 
@@ -54,6 +56,7 @@ README.md                    — 本文件（项目入口）
 
 ---
 
+
 ## **2. Research Workflow（工作流模式）**
 
 本研究室采用“三窗口体系 + 文档仓库”的方式运行：
@@ -81,6 +84,7 @@ README.md                    — 本文件（项目入口）
 
 ---
 
+
 ## **3. Versioning（版本管理）**
 
 长期方法论使用版本号迭代：
@@ -96,6 +100,7 @@ README.md                    — 本文件（项目入口）
 ---
 
 ## **4. Contribution Philosophy（方法论理念）**
+
 
 ### **Structure First**
 
@@ -123,6 +128,7 @@ README.md                    — 本文件（项目入口）
 
 ---
 
+
 ## **5. Weekly & Monthly Routine（更新节奏）**
 
 ### **Weekly**
@@ -140,6 +146,7 @@ README.md                    — 本文件（项目入口）
 * 输出可公开内容（如 patterns 或 frameworks）
 
 ---
+
 
 ## **6. Topic Roadmap（研究方向）**
 
@@ -159,6 +166,7 @@ README.md                    — 本文件（项目入口）
 
 ---
 
+
 ## **7. For Future Me（写给未来的我）**
 
 * 你不是在“写 prompt”，你在构建一个协作系统。
@@ -166,3 +174,19 @@ README.md                    — 本文件（项目入口）
 * 不要追求完美版，v0.1 比空白强 100 倍。
 * 每一个 insight 都值得记录。
 * 你正在构建属于你自己的方法论世界。
+
+---
+
+
+## 8. Versions
+
+版本历史与对应文档存放于：
+
+
+当前版本：
+
+### **v0.1 – Initial Lab Structure**
+- 建立基础仓库结构  
+- 创建 `operations/`、`research-notes/`、`formal-docs/`、`fragments/`、`protocol-design/`、`paper-mapping/`   
+- 编写主 README 与 weekly 研究模板  
+- 设定研究工作流体系与方法论规范  
